@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(79, 198, 202);
+    text-align: center;
+    padding-top: 10%;
+    
+}
+form{
+    display: block;
+    text-align: center;
+    background-color: rgb(176, 236, 238);
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10%;
+    color: rgb(72, 49, 65);
+}

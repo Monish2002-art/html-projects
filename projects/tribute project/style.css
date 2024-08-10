@@ -1,0 +1,41 @@
+header{
+    background-color: rgb(183, 169, 169);
+    text-align: center;
+    padding-block: 10px;
+}
+p{
+    text-align: justify;
+}
+.image{
+    display: block;
+    height: 300px;
+    align-items: center;
+    float: top;
+}
+#p1{
+    color: darkgreen;
+}
+#p2{
+    color: darkgreen;
+}
+#p3{
+    color: darkgreen;
+}
+.page{
+    display: block;
+    text-size-adjust: 1.5em 1.5em;
+    text-align: center;
+    color: black;
+    
+}
+.page .pg1{
+    display: inline-block;
+    background-color: chocolate;
+    height: 1.5em;
+    width: 1.5em;
+    
+}
+.page:hover{
+    display: inline-block;
+    background-color: rgb(215, 160, 121);
+}
