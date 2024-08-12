@@ -1,0 +1,47 @@
+body{
+    background-color:whitesmoke;
+}
+header{
+    margin: none;
+    display: block;
+    background-color: rgb(141, 226, 216);
+    padding: 20px;
+    font-style: bold;
+    border-radius: 20px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    padding-inline: 10px;
+}
+#brand{
+    background-color: aquamarine;
+    border-radius: 10px;
+
+}
+a.hover{
+    color: rgb(12, 12, 11);
+}
+img{
+    border-radius: 30px;
+    float: center;
+    padding-right: 20px;
+    height: 250px;
+}
+#cart{
+    background-color: rgb(121, 200, 173);
+    border-radius: 10px;
+}
+main{
+   display: inline-block;
+   
+   padding-left: 300px;
+}
+.container{
+    background-color: antiquewhite;
+    border-radius: 30px;
+    padding: 10px 10px 10px 10px;
+}
+#prt{
+    text-align: left;
+}
